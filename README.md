@@ -20,7 +20,21 @@ It contains some websites I made for learning and practicing
 <b>~React</b>
 <ul>
   <li>LAB-16-ToDo Applicaation</li>
-  <li>LAB-18-Building a Multi-Route Directory System-( create a Node.js server with multiple API endpoints, handle Cross-Origin Resource Sharing (CORS), and connect a React frontend to fetch and display dynamic data based on user interaction.
-)</li>
 </ul>
-
+<b>~Figma and Tailwind css</b>
+<ul>
+  <li>Portfolio-Website-Take a provided Figma design and replicate it pixel-perfectly using Tailwind CSS.
+</li>
+</ul>
+<b>~~React,Node.js and MongoDB</b>
+<ul>
+   <li>LAB-18-Building a Multi-Route Directory System-( create a Node.js server with multiple API endpoints, handle Cross-Origin Resource Sharing (CORS), and connect a React frontend to fetch and display dynamic data based on user interaction.
+)</li>
+  <li>LAB-19-CRUD Application</li>
+</ul>
+<b>~Bcrypt and JWT</b>
+<ul>
+  <li>LAB-20- React.js Authentication Flow</li>
+  <LI>LAB-21-Secure User Authentication (JWT & Bcrypt)-(implement password hashing using Bcrypt, session management using JSON Web Tokens (JWT), and store structured user metadata.
+)</LI>
+</ul>
