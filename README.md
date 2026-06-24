@@ -1,5 +1,5 @@
 # Web_Deveolpment
-It contains some websites I made for learning and practicing
+It contains some websites I made for learning and practicing.<mark>Some of the folders donot have node modules to avoid the file size issue.</mark><b>You can run 'npm install' on command prompt for getting node modules back and make the applications working</b>
 
 <b>~ HTMLand CSS:</b>
 <ul>
@@ -37,4 +37,11 @@ It contains some websites I made for learning and practicing
   <li>LAB-20- React.js Authentication Flow</li>
   <LI>LAB-21-Secure User Authentication (JWT & Bcrypt)-(implement password hashing using Bcrypt, session management using JSON Web Tokens (JWT), and store structured user metadata.
 )</LI>
+</ul>
+<b>-Lab-22 and 23-Automated Welcome Emails with Nodemailer,User Posts & Data Relationships</b><br>
+<b>~Other Applications</b>
+<ul>
+  <li>project-1-background changer</li>
+  <li>project-2-password generator</li>
+  <li><b>Project-3-Cricket team</b>-<mark>Demonstration of Full Stack Web Application</mark></li>
 </ul>
