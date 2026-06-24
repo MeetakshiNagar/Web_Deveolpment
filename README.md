@@ -1,2 +1,2 @@
 # Web_Deveolpment
-It contains some basic website I made for learning and practicing
+It contains some websites I made for learning and practicing
