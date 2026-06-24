@@ -17,4 +17,10 @@ It contains some websites I made for learning and practicing
   <li>LAB-11-A Profile card and a Live Clock</li>
   <li>LAB-12- Fetch data from a public REST API using JavaScript, manipulate the DOM</li>
 </ul>
+<b>~React</b>
+<ul>
+  <li>LAB-16-ToDo Applicaation</li>
+  <li>LAB-18-Building a Multi-Route Directory System-( create a Node.js server with multiple API endpoints, handle Cross-Origin Resource Sharing (CORS), and connect a React frontend to fetch and display dynamic data based on user interaction.
+)</li>
+</ul>
 
